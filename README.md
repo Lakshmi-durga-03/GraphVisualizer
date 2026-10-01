@@ -234,4 +234,3 @@ Some possible improvements for the project are:
 - Add graph/node-based visualization
 - Add mobile-friendly improvements
 
-Live Link: https://lakshmi16-03.github.io/GraphVisualizer/
